@@ -5,8 +5,8 @@ requirejs tests, but modified so amodro loader can run the ones that make sense.
 ## Setup
 
 * Run setup-requirejs-tests.sh if starting from scratch, to get some support repos.
-* symlink the amdodro loader variant to `require.js` in this directory.
-* Open tests/tests/index.html in a browser, talking to a local web server.
+* symlink the amdodro loader variant to `require.js` in the `root` directory.
+* Open root/tests/index.html in a browser, talking to a local web server.
 
 ## Differences with requirejs tests:
 
